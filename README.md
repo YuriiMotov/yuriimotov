@@ -1,6 +1,6 @@
-### Hi👋
+### Hi!
 
-I'm Yurii Motov and I'm a Python Software Developer.
+My name is Yurii Motov and I'm a Python Software Developer.
 
 I'm looking for a job now. If you like what I do and you want to say thank you to me — let's connect on [LinkedIn](https://www.linkedin.com/in/yurii-motov/). I would also appreciate if you would [endorse my skills](https://www.linkedin.com/help/linkedin/answer/a566100).
 
